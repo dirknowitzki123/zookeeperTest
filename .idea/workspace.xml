@@ -32,8 +32,8 @@
       <file leaf-file-name="DistributeLock.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javaApiTest/src/main/java/com/gupao/vip/distributelock/DistributeLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="66" column="78" lean-forward="true" selection-start-line="66" selection-start-column="78" selection-end-line="66" selection-end-column="78" />
+            <state relative-caret-position="233">
+              <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -335,12 +335,12 @@
       <workItem from="1545030419103" duration="4492000" />
       <workItem from="1545095843795" duration="13939000" />
       <workItem from="1545133096625" duration="3767000" />
-      <workItem from="1545183309829" duration="8460000" />
+      <workItem from="1545183309829" duration="8905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41240000" />
+    <option name="totallyTimeSpent" value="41685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -813,8 +813,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaApiTest/src/main/java/com/gupao/vip/distributelock/DistributeLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="66" column="78" lean-forward="true" selection-start-line="66" selection-start-column="78" selection-end-line="66" selection-end-column="78" />
+        <state relative-caret-position="233">
+          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
